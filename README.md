@@ -1,7 +1,4 @@
-Paste the following content into the file:
 
-markdown
-Copy code
 # 0x Swap API Challenge
 
 This project demonstrates how to use the 0x Swap API to:
